@@ -1,15 +1,15 @@
-## Information Collection and Use
+# Information Collection and Use
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
-## Types of Data Collected
-# Personal Data
+# Types of Data Collected
+## Personal Data
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-## Cookies and Usage Data
-# Usage Data
+# Cookies and Usage Data
+## Usage Data
 When you access the Service with a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data (“Usage Data”).
 
-# Tracking & Cookies Data
+## Tracking & Cookies Data
 We use cookies and similar tracking technologies to track the activity on our Service and we hold certain information.
 
 Cookies are files with a small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyse our Service.
@@ -18,12 +18,12 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-- Session Cookies. We use Session Cookies to operate our Service.
-- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-- Security Cookies. We use Security Cookies for security purposes.
-- Advertising Cookies. Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+Session Cookies. We use Session Cookies to operate our Service.
+Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+Security Cookies. We use Security Cookies for security purposes.
+Advertising Cookies. Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
 
-# Use of Data
+## Use of Data
 GameXdenas uses the collected data for various purposes:
 
 To provide and maintain our Service
@@ -43,12 +43,12 @@ You have given us permission to do so
 The processing is in our legitimate interests and it is not overridden by your rights
 To comply with the law
 
-# Retention of Data
+## Retention of Data
 GameXdenas will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
 
 GameXdenas will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
 
-# Transfer of Data
+## Transfer of Data
 Your information, including Personal Data, may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
 
 If you are located outside Netherlands and choose to provide information to us, please note that we transfer the data, including Personal Data, to Netherlands and process it there.
@@ -57,8 +57,8 @@ Your consent to this Privacy Policy followed by your submission of such informat
 
 GameXdenas will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
 
-## Disclosure of Data
-# Legal Requirements
+# Disclosure of Data
+## Legal Requirements
 GameXdenas may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 To comply with a legal obligation
@@ -67,7 +67,7 @@ To prevent or investigate possible wrongdoing in connection with the Service
 To protect the personal safety of users of the Service or the public
 To protect against legal liability
 
-# Security of Data
+## Security of Data
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
 Your Data Protection Rights under the General Data Protection Regulation (GDPR)
@@ -88,14 +88,14 @@ Please note that we may ask you to verify your identity before responding to suc
 
 You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
 
-## Service Providers
+# Service Providers
 We may employ third party companies and individuals to facilitate our Service (“Service Providers”), provide the Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-## Analytics
+# Analytics
 We may use third-party Service Providers to monitor and analyse the use of our Service.
 
-## Firebase
+# Firebase
 Firebase is analytics service provided by Google Inc.You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en
 
 We also encourage you to review the Google’s policy for safeguarding your data:
@@ -103,30 +103,30 @@ We also encourage you to review the Google’s policy for safeguarding your data
 For more information on what type of information Firebase collects, please visit the Google Privacy & Terms web page: 
 https://policies.google.com/privacy?hl=en
 
-## Advertising
+# Advertising
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
 
-## AdMob by Google
+# AdMob by Google
 AdMob by Google is provided by Google Inc.You can opt-out from the AdMob by Google service by following the instructions described by Google: https://support.google.com/ads/answer/2662922?hl=en
 
-## Links to Other Sites
+# Links to Other Sites
 Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-## Children’s Privacy
+# Children’s Privacy
 Our Service does not address anyone under the age of 13 (“Children”).
 
 We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
-## Changes to This Privacy Policy
+# Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Contact Us
+# Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 gexmosdenas49@gmail.com
 
